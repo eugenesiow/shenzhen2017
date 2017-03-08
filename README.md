@@ -9,10 +9,7 @@
 |I want to go to ...   |wǒ xiǎng qù  |我想去...   |
 |Toilet  |cè suǒ  |厕所   |
 |Where is...  |zài nǎ lǐ  |...在哪里   |
-
-
-
-
+|Ask for a taxi  |dǎ chē  |打车   |
 
 ## Places
 
